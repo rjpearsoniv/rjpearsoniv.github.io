@@ -1,2 +1,2 @@
 # rjpearsoniv.github.io
-My personal "github pages" blog.
+Judd's ("github.com/rjpearsoniv") personal blog.
